@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nishant Sharma
+Hi! My name is Nishant Sharma
 ======================================================================================================================================
 
 Mobile Application Developer
@@ -7,7 +7,7 @@ Mobile Application Developer
 I've been learning to code for 10 years, after switching careers, I started with Flutter and Android Native but really found a passion for Mobile Application Development
 
 * 🌍  I'm based in Jaipur, Rajasthan, India
-* 🧠  I'm learning Full Stack Web Development
+* 🧠  I'm learning new Techniques and Strategies
 
 ### Skills
 
