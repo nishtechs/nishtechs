@@ -1,16 +1,16 @@
 # Nishant Sharma
 
-## Mobile Application Developer
+## Mobile Application Developer | AI Enthusiast
 
-Passionate mobile developer with **10 years of coding experience** and a successful career transition into mobile application development. Specialized in **Flutter** and **Android Native** development, with a proven track record of building scalable, user-centric applications.
+Passionate mobile developer with **10 years of coding experience** and a successful career transition into mobile application development. Specialized in **Flutter** and **Android Native** development, with growing expertise in **AI/ML integration** for mobile applications. Building intelligent, user-centric solutions that combine mobile excellence with artificial intelligence.
 
 ---
 
 ## 📍 About Me
 
 - **Location:** Jaipur, Rajasthan, India
-- **Focus:** Continuous learning of cutting-edge mobile development techniques and architectural strategies
-- **Expertise:** Cross-platform mobile development with emphasis on performance and user experience
+- **Focus:** Continuous learning of cutting-edge mobile development techniques, AI/ML strategies, and architectural patterns
+- **Expertise:** Cross-platform mobile development with AI integration, performance optimization, and user experience design
 
 ---
 
@@ -26,6 +26,13 @@ Passionate mobile developer with **10 years of coding experience** and a success
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
+### AI & Machine Learning
+<p align="left">
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-Learn" /></a>
+</p>
+
 ### Backend & Database
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -38,6 +45,16 @@ Passionate mobile developer with **10 years of coding experience** and a success
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="Adobe XD" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
+---
+
+## 🤖 AI/ML Expertise
+
+- **Model Integration:** TensorFlow Lite, PyTorch Mobile for on-device inference
+- **Natural Language Processing:** Text classification, sentiment analysis, chatbot development
+- **Computer Vision:** Image recognition, object detection for mobile applications
+- **Data Science:** Predictive analytics, data preprocessing, feature engineering
+- **AI-Powered Features:** Personalization engines, recommendation systems, intelligent automation
 
 ---
 
