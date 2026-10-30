@@ -179,10 +179,3 @@ I’m currently working at **Rajasthan Knowledge Corporation Limited (RKCL)** an
 
 ---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=nishtechs&label=PROFILE%20VIEWS&color=2C5364&style=for-the-badge" alt="Visitor Count" />
-  </a>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer Banner" />
-</div>
