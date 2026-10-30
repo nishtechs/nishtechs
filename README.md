@@ -31,7 +31,7 @@
 ## 💫 About Me
 
 ### Hi, I'm Nishant Sharma 👋
-I’m currently working at **Rajasthan Knowledge Corporation Limited (RKCL)** and enjoy building practical solutions with software, electronics, and AI.
+I’m currently working at **Rajasthan Knowledge Corporation Limited (RKCL)** as a Mobile Application Developer and enjoy building practical solutions with software, electronics, and AI.
 
 <table width="100%">
   <tr>
